@@ -1,23 +1,29 @@
 {
   "files": {
-    "main.css": "/polar-roses/static/css/main.5f361e03.chunk.css",
-    "main.js": "/polar-roses/static/js/main.414633d8.chunk.js",
-    "main.js.map": "/polar-roses/static/js/main.414633d8.chunk.js.map",
+    "main.css": "/polar-roses/static/css/main.3b144a47.chunk.css",
+    "main.js": "/polar-roses/static/js/main.3daf8ed6.chunk.js",
+    "main.js.map": "/polar-roses/static/js/main.3daf8ed6.chunk.js.map",
     "runtime-main.js": "/polar-roses/static/js/runtime-main.3c3f2101.js",
     "runtime-main.js.map": "/polar-roses/static/js/runtime-main.3c3f2101.js.map",
-    "static/js/2.0a9dd408.chunk.js": "/polar-roses/static/js/2.0a9dd408.chunk.js",
-    "static/js/2.0a9dd408.chunk.js.map": "/polar-roses/static/js/2.0a9dd408.chunk.js.map",
+    "static/css/2.fafd224f.chunk.css": "/polar-roses/static/css/2.fafd224f.chunk.css",
+    "static/js/2.c695f985.chunk.js": "/polar-roses/static/js/2.c695f985.chunk.js",
+    "static/js/2.c695f985.chunk.js.map": "/polar-roses/static/js/2.c695f985.chunk.js.map",
     "index.html": "/polar-roses/index.html",
-    "precache-manifest.1cb78bf8e8a1717abc108c9f2449feb9.js": "/polar-roses/precache-manifest.1cb78bf8e8a1717abc108c9f2449feb9.js",
+    "precache-manifest.68e182032676e0c4a4bd0166f21b4b99.js": "/polar-roses/precache-manifest.68e182032676e0c4a4bd0166f21b4b99.js",
     "service-worker.js": "/polar-roses/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/polar-roses/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0a9dd408.chunk.js.LICENSE.txt": "/polar-roses/static/js/2.0a9dd408.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/polar-roses/static/media/logo.5d5d9eef.svg"
+    "static/css/2.fafd224f.chunk.css.map": "/polar-roses/static/css/2.fafd224f.chunk.css.map",
+    "static/css/main.3b144a47.chunk.css.map": "/polar-roses/static/css/main.3b144a47.chunk.css.map",
+    "static/js/2.c695f985.chunk.js.LICENSE.txt": "/polar-roses/static/js/2.c695f985.chunk.js.LICENSE.txt",
+    "static/media/latin-ext-300.css": "/polar-roses/static/media/roboto-latin-ext-300-normal.f4b08b5a.woff",
+    "static/media/latin-ext-400.css": "/polar-roses/static/media/roboto-latin-ext-400-normal.d679a906.woff",
+    "static/media/latin-ext-500.css": "/polar-roses/static/media/roboto-latin-ext-500-normal.3d9446f2.woff",
+    "static/media/latin-ext-700.css": "/polar-roses/static/media/roboto-latin-ext-700-normal.d0cc855e.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3c3f2101.js",
-    "static/js/2.0a9dd408.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.414633d8.chunk.js"
+    "static/css/2.fafd224f.chunk.css",
+    "static/js/2.c695f985.chunk.js",
+    "static/css/main.3b144a47.chunk.css",
+    "static/js/main.3daf8ed6.chunk.js"
   ]
 }
