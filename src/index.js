@@ -8,9 +8,12 @@ import 'fontsource-roboto/latin-ext-700.css';
 
 import Typography from '@material-ui/core/Typography';
 
+import Rose from './Rose.js';
+
 ReactDOM.render(
   <React.StrictMode>
     <Typography variant={'h2'}>Polar Roses</Typography>
+    <Rose></Rose>
   </React.StrictMode>,
   document.getElementById('root')
 );
