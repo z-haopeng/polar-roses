@@ -1,2 +1,0 @@
-(this["webpackJsonppolar-roses"]=this["webpackJsonppolar-roses"]||[]).push([[0],{13:function(e,t,n){},7:function(e,t,n){e.exports=n(8)},8:function(e,t,n){"use strict";n.r(t);var o=n(0),r=n.n(o),a=n(4),s=n.n(a),c=(n(13),n(14),n(15),n(16),n(17),n(22));s.a.render(r.a.createElement(r.a.StrictMode,null,r.a.createElement(c.a,{variant:"h2"},"Polar Roses")),document.getElementById("root"))}},[[7,1,2]]]);
-//# sourceMappingURL=main.3daf8ed6.chunk.js.map
