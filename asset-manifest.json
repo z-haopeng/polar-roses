@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/polar-roses/static/css/main.3b144a47.chunk.css",
-    "main.js": "/polar-roses/static/js/main.950498f5.chunk.js",
-    "main.js.map": "/polar-roses/static/js/main.950498f5.chunk.js.map",
+    "main.js": "/polar-roses/static/js/main.cae77cf5.chunk.js",
+    "main.js.map": "/polar-roses/static/js/main.cae77cf5.chunk.js.map",
     "runtime-main.js": "/polar-roses/static/js/runtime-main.3c3f2101.js",
     "runtime-main.js.map": "/polar-roses/static/js/runtime-main.3c3f2101.js.map",
     "static/css/2.fafd224f.chunk.css": "/polar-roses/static/css/2.fafd224f.chunk.css",
-    "static/js/2.05dec422.chunk.js": "/polar-roses/static/js/2.05dec422.chunk.js",
-    "static/js/2.05dec422.chunk.js.map": "/polar-roses/static/js/2.05dec422.chunk.js.map",
+    "static/js/2.bb68400b.chunk.js": "/polar-roses/static/js/2.bb68400b.chunk.js",
+    "static/js/2.bb68400b.chunk.js.map": "/polar-roses/static/js/2.bb68400b.chunk.js.map",
     "index.html": "/polar-roses/index.html",
-    "precache-manifest.d38b3e4f139b492992b0c58db564bd77.js": "/polar-roses/precache-manifest.d38b3e4f139b492992b0c58db564bd77.js",
+    "precache-manifest.9355b532aa6cf18a75d151c6c6bf9a7f.js": "/polar-roses/precache-manifest.9355b532aa6cf18a75d151c6c6bf9a7f.js",
     "service-worker.js": "/polar-roses/service-worker.js",
     "static/css/2.fafd224f.chunk.css.map": "/polar-roses/static/css/2.fafd224f.chunk.css.map",
     "static/css/main.3b144a47.chunk.css.map": "/polar-roses/static/css/main.3b144a47.chunk.css.map",
-    "static/js/2.05dec422.chunk.js.LICENSE.txt": "/polar-roses/static/js/2.05dec422.chunk.js.LICENSE.txt",
+    "static/js/2.bb68400b.chunk.js.LICENSE.txt": "/polar-roses/static/js/2.bb68400b.chunk.js.LICENSE.txt",
     "static/media/latin-ext-300.css": "/polar-roses/static/media/roboto-latin-ext-300-normal.f4b08b5a.woff",
     "static/media/latin-ext-400.css": "/polar-roses/static/media/roboto-latin-ext-400-normal.d679a906.woff",
     "static/media/latin-ext-500.css": "/polar-roses/static/media/roboto-latin-ext-500-normal.3d9446f2.woff",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.3c3f2101.js",
     "static/css/2.fafd224f.chunk.css",
-    "static/js/2.05dec422.chunk.js",
+    "static/js/2.bb68400b.chunk.js",
     "static/css/main.3b144a47.chunk.css",
-    "static/js/main.950498f5.chunk.js"
+    "static/js/main.cae77cf5.chunk.js"
   ]
 }
