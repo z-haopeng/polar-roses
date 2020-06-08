@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/polar-roses/static/css/main.3b144a47.chunk.css",
-    "main.js": "/polar-roses/static/js/main.cae77cf5.chunk.js",
-    "main.js.map": "/polar-roses/static/js/main.cae77cf5.chunk.js.map",
+    "main.js": "/polar-roses/static/js/main.b5c69ab7.chunk.js",
+    "main.js.map": "/polar-roses/static/js/main.b5c69ab7.chunk.js.map",
     "runtime-main.js": "/polar-roses/static/js/runtime-main.3c3f2101.js",
     "runtime-main.js.map": "/polar-roses/static/js/runtime-main.3c3f2101.js.map",
     "static/css/2.fafd224f.chunk.css": "/polar-roses/static/css/2.fafd224f.chunk.css",
     "static/js/2.bb68400b.chunk.js": "/polar-roses/static/js/2.bb68400b.chunk.js",
     "static/js/2.bb68400b.chunk.js.map": "/polar-roses/static/js/2.bb68400b.chunk.js.map",
     "index.html": "/polar-roses/index.html",
-    "precache-manifest.9355b532aa6cf18a75d151c6c6bf9a7f.js": "/polar-roses/precache-manifest.9355b532aa6cf18a75d151c6c6bf9a7f.js",
+    "precache-manifest.087c325d1c8067d12c41eb7c3d213f45.js": "/polar-roses/precache-manifest.087c325d1c8067d12c41eb7c3d213f45.js",
     "service-worker.js": "/polar-roses/service-worker.js",
     "static/css/2.fafd224f.chunk.css.map": "/polar-roses/static/css/2.fafd224f.chunk.css.map",
     "static/css/main.3b144a47.chunk.css.map": "/polar-roses/static/css/main.3b144a47.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.fafd224f.chunk.css",
     "static/js/2.bb68400b.chunk.js",
     "static/css/main.3b144a47.chunk.css",
-    "static/js/main.cae77cf5.chunk.js"
+    "static/js/main.b5c69ab7.chunk.js"
   ]
 }

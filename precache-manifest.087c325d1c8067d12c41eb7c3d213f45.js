@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c278534e7abbb9b0c290f459a0393c70",
+    "revision": "ffbfd3d450151201336c41dba3571fb6",
     "url": "/polar-roses/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polar-roses/static/css/2.fafd224f.chunk.css"
   },
   {
-    "revision": "6baaab9406be69fe575d",
+    "revision": "4cbe1d0c7c62ec3fdc68",
     "url": "/polar-roses/static/css/main.3b144a47.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/polar-roses/static/js/2.bb68400b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6baaab9406be69fe575d",
-    "url": "/polar-roses/static/js/main.cae77cf5.chunk.js"
+    "revision": "4cbe1d0c7c62ec3fdc68",
+    "url": "/polar-roses/static/js/main.b5c69ab7.chunk.js"
   },
   {
     "revision": "e879c71570025a4a7b0f",
