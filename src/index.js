@@ -24,15 +24,18 @@ class App extends React.Component {
   render() {
     return(
       <div>
-        <Typography variant={'h2'}>Polar Roses</Typography>
+        <Typography variant='h3'>Polar Roses</Typography>
         <Rose n={this.state.n} d={this.state.d}></Rose>
+        <Box fontStyle='italic' fontSize='h6.fontSize'>r=cos(n&theta;/d)</Box>
         <Box width='500px' maxWidth='80vw' margin='auto'>
-          <Slider 
+          <Typography align='left' gutterBottom>Numerator (n)</Typography>
+          <Slider
             valueLabelDisplay='auto'
             min={1}
             max={25} 
             value={this.state.n}
             onChange={(e, val) => this.setState({n: val})} />
+          <Typography align='left' gutterBottom>Denominator (d)</Typography>
           <Slider 
             valueLabelDisplay='auto'
             min={1}
