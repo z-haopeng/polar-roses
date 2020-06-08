@@ -1,3 +1,7 @@
+## Polar Roses
+
+Simple web application for drawing [polar roses](https://en.wikipedia.org/wiki/Rose_(mathematics)) using p5.js, React, and Material-UI.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
